@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentRegistryv1</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="enter_name_here">Enter Name here</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="add">ADD</string>
+    <string name="view">VIEW</string>
+</resources>
